@@ -1,0 +1,10 @@
+{
+    "0xdf6145bcd49617e694633d19853fd1b1a76661a6196293bb20bc51ad7ff506a1": {
+        "interface": "/Users/sangjun/Documents/SimpleCoralX/contracts/ERC20Mintable.sol",
+        "address": "0xce75A95160D96F5388437993aB5825F322426E04",
+        "action": "deploy",
+        "args": "[\"FathomStablecoin\",\"FXD\"]",
+        "txHash": "0xf390e44b21705aa04364425fe7dacfccf392b16fbdbbfe5e88323417bf824b8f",
+        "nonce": 0
+    }
+}
